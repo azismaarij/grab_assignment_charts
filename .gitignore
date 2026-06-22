@@ -1,0 +1,8 @@
+# publish ONLY the chart HTML — keep everything else (data, notebook, case study) private
+*.xlsx
+*.ipynb
+*.geojson
+*.pdf
+*.png
+__pycache__/
+.ipynb_checkpoints/
